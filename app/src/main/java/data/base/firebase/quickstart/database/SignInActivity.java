@@ -161,7 +161,7 @@ public class SignInActivity extends BaseActivity implements View.OnClickListener
         mDatabase.child("users").child(userId).setValue(user);
     }
     // [END basic_write]
-
+//how to writr code
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
