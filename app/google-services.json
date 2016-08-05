@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "496507564240",
+    "firebase_url": "https://database-cad85.firebaseio.com",
+    "project_id": "database-cad85",
+    "storage_bucket": "database-cad85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496507564240:android:0b16497be1a4c312",
+        "android_client_info": {
+          "package_name": "data.base.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496507564240-m6r8eu1f9jl8ao97fn012vt8fncga7kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvp2jR6sfsGchzcuya5qIfN8qe2sDQIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
